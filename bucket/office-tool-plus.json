@@ -1,5 +1,5 @@
 {
-    "version": "7.6.1.0",
+    "version": "7.6",
     "description": "Office Tool Plus is a simple tool for deploying Office",
     "homepage": "https://otp.landian.vip",
     "license": "Unknown",
@@ -12,5 +12,12 @@
             "Office Tool Plus.exe",
             "Office Tool Plus"
         ]
-    ]
+    ],
+    "checkver": {
+        "url": "https://otp.landian.vip/en-us/download.html",
+        "regex": "Office-Tool-v([\\d\\.]+).zip"
+    },
+    "autoupdate": {
+        "url": "https://download.coolhub.top/Office-Tool-v$version.zip"
+    }
 }

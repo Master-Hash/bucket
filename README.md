@@ -9,3 +9,6 @@ My scoop repo (for learning only)
 
 ## Github gpg config
 https://www.imwzk.com/how-to-use-gpg-on-github/
+
+## checkver and autoupdate
+Works so far;-)
