@@ -6,6 +6,3 @@ My scoop repo (for learning only)
 
 ## Github ssh config
 `ssh -T git@github.com`
-
-## Github gpg config
-https://www.imwzk.com/how-to-use-gpg-on-github/

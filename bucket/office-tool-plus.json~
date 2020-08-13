@@ -8,7 +8,7 @@
     "bin": "Office Tool Plus.exe",
     "shortcuts": [
         [
-            "Office\sTool\sPlus.exe",
+            "'Office Tool Plus.exe'",
             "Office Tool Plus"
         ]
     ]
