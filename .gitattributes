@@ -1,3 +1,2 @@
-*.json linguist-language=json
-*.ps1 linguist-vendored
+*.json linguist-detectable
 bin/* linguist-vendored
