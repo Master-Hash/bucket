@@ -1,0 +1,13 @@
+{
+    "version": "0.2.1",
+    "description": "ViVe is a C# library you can use to make your own programs that interact with Windows 10's A/B feature mechanism",
+    "homepage": "https://github.com/thebookisclosed/ViVe",
+    "license": "GPL-3.0",
+    "url": "https://github.com/thebookisclosed/ViVe/releases/download/v0.2.1/ViVeTool-v0.2.1.zip",
+    "hash": "186d487bfac1d9e7e69e581df4530fdddee5a83b00bcfecb6c5ac503ec09a322",
+    "bin": "ViVeTool.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/thebookisclosed/ViVe/releases/download/v$version/ViVeTool-v$version.zip"
+    }
+}
