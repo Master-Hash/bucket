@@ -24,8 +24,7 @@
         "url": "https://download.fastgit.org/YerongAI/Office-Tool/releases/download/$version/Office-Tool-v$majorVersion.$minorVersion.zip",
         "hash": {
             "url": "https://download.coolhub.top/Hash.txt",
-            "regex": "File: Office-Tool-v$majorVersion\\.$minorVersion\\.zip\\sSHA-256: ([a-f0-9]{64})",
-            "reverse": true
+            "regex": "File: Office-Tool-v$majorVersion\\.$minorVersion\\.zip\\sSHA-256: ([a-f0-9]{64})"
         }
     }
 }
