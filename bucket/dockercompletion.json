@@ -1,5 +1,5 @@
 {
-    "version": "0.2021.01.25",
+    "version": "0.2021.04.20",
     "description": "Provides color highlighting for some basic PowerShell output.",
     "homepage": "https://github.com/matt9ucci/DockerCompletion",
     "license": "MIT",
@@ -8,7 +8,7 @@
         "Import-Module DockerCompletion"
     ],
     "url": "https://download.fastgit.org/matt9ucci/DockerCompletion/archive/master.zip",
-    "hash": "89910c141cfe775b195ae327e64604fb29272c84beded57975a89972be01d632",
+    "hash": "2fc0039ce21745a2e999eab9bf165e4f65e420d61e8334600e8e645bb39cdd0f",
     "extract_dir": "DockerCompletion-master\\DockerCompletion",
     "psmodule": {
         "name": "DockerCompletion"
